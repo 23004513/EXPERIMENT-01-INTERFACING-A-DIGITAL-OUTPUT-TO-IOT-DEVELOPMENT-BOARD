@@ -7,7 +7,6 @@
 
 ## ROLL NO:212223040138
 
-## DEPARTMENT:CSE
 
 ## Aim
 
